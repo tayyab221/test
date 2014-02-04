@@ -7,6 +7,7 @@ int main() {
 	scanf("%i %i", &a, &b);
 	printf("%i + %i = %i\n", a, b, a+b);
 	printf("%i - %i = %i\n", a, b, a-b);
+	printf("%i * %i = %i\n", a, b, a*b);
 	
 	return 0;
 	
