@@ -8,6 +8,7 @@ int main() {
 	printf("%i + %i = %i\n", a, b, a+b);
 	printf("%i - %i = %i\n", a, b, a-b);
 	printf("%i * %i = %i\n", a, b, a*b);
+	printf("%i / %i = %i\n", a, b, a/b);
 	
 	return 0;
 	
